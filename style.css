@@ -1,3 +1,58 @@
 body {
-    background: red;
-}
+    
+        background: #c8deec;
+font-family: Helvetica Neue;
+        
+    }
+
+p {
+    
+font-family: Helvetica Neue;
+        
+    }
+
+img {
+
+border: 3px solid black;
+    padding: 30px;
+
+    }
+
+a {
+
+font-weight: bold;
+
+    }
+
+
+h1 {
+    
+
+font-weight: bold;
+font-family: Courier New;
+
+        
+    }
+
+h2 {
+    
+              color: #8DB6CD;
+font-family: Century Gothic;
+        
+    }
+
+h3 {
+    
+font-family: Courier New;
+        
+    }
+
+h4 {
+    font-family: Courier New;
+
+        color: #887;
+
+font-style: italic;
+
+        
+    }
